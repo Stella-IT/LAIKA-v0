@@ -9,4 +9,5 @@ This software is developed for StellaOS Project, Linux™ Distribution project t
 
 ## LICENSE
 ~~Stella IT Confidential License~~  
-**DECLASSIFIED on 2021-02-17 KST 02:31**. Distributed under WTFPL.  
+**DECLASSIFIED on 2021-02-17 KST 02:31**. 
+Distributed under [Shameful Software License](LICENSE).  
