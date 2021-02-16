@@ -8,4 +8,5 @@ Laika is named after [the Soviet Dog who went to the space in first time in Sput
 This software is developed for StellaOS Project, Linux™ Distribution project that focuses on Security.  
 
 ## LICENSE
-~~Stella IT Confidential License~~ **DECLASSIFIED**. Distributed under WTFPL.  
+~~Stella IT Confidential License~~  
+**DECLASSIFIED on 2021-02-17 KST 02:31**. Distributed under WTFPL.  
