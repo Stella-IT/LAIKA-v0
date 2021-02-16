@@ -207,6 +207,5 @@ echo "Done."
 # QEMU ON!!
 echo "Starting StellaOS..."
 cd laika
-qemu-system-x86_64 -m 256 -kernel vmlinuz -initrd initramfs -append "quiet console=ttyS0" -display none -serial stdio -\
-hda test.qcow2
+qemu-system-x86_64 -m 256 -kernel vmlinuz -initrd initramfs -append "quiet console=ttyS0" -display none -serial stdio -hda test.qcow2
 cd ..
